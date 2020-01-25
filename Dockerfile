@@ -8,3 +8,5 @@ RUN conda install --quiet --yes -c conda-forge spacy && \
     conda clean --all -f -y
 
 RUN pip install --no-cache-dir pymongo dnspython
+
+COPY . /home/jovyan/source
