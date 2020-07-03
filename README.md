@@ -7,7 +7,7 @@ A collection of jupyter notebooks to explore, test and experiment on the zeeker 
 This repository is also the source for the docker image [houfu/zeeker-notebooks](houfu/zeeker-notebooks), which is a jupyter notebook server.
 You can run the image as a container and access the server, which would give you the ability to modify and experiment yourself.
 ```shell script
-$ docker run houfu/zeeker-notebooks
+$ docker run -p 8888:8888 houfu/zeeker-notebooks
 ```
 
 However, this does not allow you to edit or save the files. In order to do this, you have to bind the volume to the container.
