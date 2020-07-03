@@ -1,0 +1,641 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-06-30">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="weight" type="long" />
+    </attributes>
+    <nodes>
+      <node id="SSA Group International" label="SSA Group International">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="MCST 3593" label="MCST 3593">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="MCST 4375" label="MCST 4375">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Royal Caribbean Cruises (Asia)" label="Royal Caribbean Cruises (Asia)">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="SPH Magazines" label="SPH Magazines">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Creative" label="Creative">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Society of Tourist Guides" label="Society of Tourist Guides">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="PeopleSearch" label="PeopleSearch">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="National Healthcare Group" label="National Healthcare Group">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Globalsign.in Pte Ltd" label="Globalsign.in Pte Ltd">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Chizzle" label="Chizzle">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="The Travel Corporation (2011)" label="The Travel Corporation (2011)">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Learnaholic" label="Learnaholic">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="SearchAsia Consulting" label="SearchAsia Consulting">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Ninja Logistics" label="Ninja Logistics">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="EU Holidays" label="EU Holidays">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Marshall Cavendish Education" label="Marshall Cavendish Education">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Advance Home Tutors" label="Advance Home Tutors">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Amicus Solutions and a Financial Consultant" label="Amicus Solutions and a Financial Consultant">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="O2 Advertising" label="O2 Advertising">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Executive Link Services" label="Executive Link Services">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Avant Logistic Service" label="Avant Logistic Service">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="Horizon Fast Ferry" label="Horizon Fast Ferry">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Genki Sushi" label="Genki Sushi">
+        <attvalues>
+          <attvalue for="0" value="39" />
+        </attvalues>
+      </node>
+      <node id="Championtutor" label="Championtutor">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="CDP and Toppan Security Printing" label="CDP and Toppan Security Printing">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="AgcDesign" label="AgcDesign">
+        <attvalues>
+          <attvalue for="0" value="58" />
+        </attvalues>
+      </node>
+      <node id="Spize Concepts" label="Spize Concepts">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="SME Motor" label="SME Motor">
+        <attvalues>
+          <attvalue for="0" value="38" />
+        </attvalues>
+      </node>
+      <node id="AIA" label="AIA">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="InfoCorp" label="InfoCorp">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="DS Human Resource" label="DS Human Resource">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="GrabCar" label="GrabCar">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Ncode Consultant" label="Ncode Consultant">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Option Gift" label="Option Gift">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="Matthew Chiong Partnership" label="Matthew Chiong Partnership">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Tutor City" label="Tutor City">
+        <attvalues>
+          <attvalue for="0" value="100" />
+        </attvalues>
+      </node>
+      <node id="COURTS" label="COURTS">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </node>
+      <node id="SingHealth and IHiS" label="SingHealth and IHiS">
+        <attvalues>
+          <attvalue for="0" value="39" />
+        </attvalues>
+      </node>
+      <node id="Toppan Forms" label="Toppan Forms">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Bud Cosmetics" label="Bud Cosmetics">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Funding Societies" label="Funding Societies">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="SLF Green Maid Agency" label="SLF Green Maid Agency">
+        <attvalues>
+          <attvalue for="0" value="77" />
+        </attvalues>
+      </node>
+      <node id="WTS Automotive Services" label="WTS Automotive Services">
+        <attvalues>
+          <attvalue for="0" value="59" />
+        </attvalues>
+      </node>
+      <node id="Big Bubble Centre" label="Big Bubble Centre">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Grabcar" label="Grabcar">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Galaxy Credit and Investments" label="Galaxy Credit and Investments">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Jade E-Services Singapore" label="Jade E-Services Singapore">
+        <attvalues>
+          <attvalue for="0" value="41" />
+        </attvalues>
+      </node>
+      <node id="Dimsum Property" label="Dimsum Property">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </node>
+      <node id="Singapore Cricket Association" label="Singapore Cricket Association">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="MCST 4436 (River Isles)" label="MCST 4436 (River Isles)">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Singapore Taekwondo Federation" label="Singapore Taekwondo Federation">
+        <attvalues>
+          <attvalue for="0" value="40" />
+        </attvalues>
+      </node>
+      <node id="Spring College International" label="Spring College International">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </node>
+      <node id="Watami Food Service Singapore" label="Watami Food Service Singapore">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="Habitat for Humanity Singapore" label="Habitat for Humanity Singapore">
+        <attvalues>
+          <attvalue for="0" value="59" />
+        </attvalues>
+      </node>
+      <node id="AIG" label="AIG">
+        <attvalues>
+          <attvalue for="0" value="77" />
+        </attvalues>
+      </node>
+      <node id="NTUC Income" label="NTUC Income">
+        <attvalues>
+          <attvalue for="0" value="59" />
+        </attvalues>
+      </node>
+      <node id="SMU Alumni Association" label="SMU Alumni Association">
+        <attvalues>
+          <attvalue for="0" value="39" />
+        </attvalues>
+      </node>
+      <node id="Aviva" label="Aviva">
+        <attvalues>
+          <attvalue for="0" value="241" />
+        </attvalues>
+      </node>
+      <node id="My Digital Lockk" label="My Digital Lockk">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="4 Hair Salons" label="4 Hair Salons">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="an Individual Selling Personal Data" label="an Individual Selling Personal Data">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </node>
+      <node id="ComGateway" label="ComGateway">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="Credit Counselling Singapore" label="Credit Counselling Singapore">
+        <attvalues>
+          <attvalue for="0" value="101" />
+        </attvalues>
+      </node>
+      <node id="Social Metric" label="Social Metric">
+        <attvalues>
+          <attvalue for="0" value="76" />
+        </attvalues>
+      </node>
+      <node id="M Stars Movers" label="M Stars Movers">
+        <attvalues>
+          <attvalue for="0" value="222" />
+        </attvalues>
+      </node>
+      <node id="BHG (Singapore)" label="BHG (Singapore)">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="a Former Financial Consultant" label="a Former Financial Consultant">
+        <attvalues>
+          <attvalue for="0" value="40" />
+        </attvalues>
+      </node>
+      <node id="Orchard Turn Developments" label="Orchard Turn Developments">
+        <attvalues>
+          <attvalue for="0" value="59" />
+        </attvalues>
+      </node>
+      <node id="Eagle Eye Security Management Services" label="Eagle Eye Security Management Services">
+        <attvalues>
+          <attvalue for="0" value="59" />
+        </attvalues>
+      </node>
+      <node id="DataPost" label="DataPost">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Hazel Florist &amp; Gifts" label="Hazel Florist &amp; Gifts">
+        <attvalues>
+          <attvalue for="0" value="39" />
+        </attvalues>
+      </node>
+      <node id="MCST and Managing Agents of Condominiums" label="MCST and Managing Agents of Condominiums">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="Asia-Pacific Star" label="Asia-Pacific Star">
+        <attvalues>
+          <attvalue for="0" value="59" />
+        </attvalues>
+      </node>
+      <node id="Furnituremart" label="Furnituremart">
+        <attvalues>
+          <attvalue for="0" value="101" />
+        </attvalues>
+      </node>
+      <node id="the National University of Singapore" label="the National University of Singapore">
+        <attvalues>
+          <attvalue for="0" value="154" />
+        </attvalues>
+      </node>
+      <node id="Tech Mahindra (Singapore)" label="Tech Mahindra (Singapore)">
+        <attvalues>
+          <attvalue for="0" value="60" />
+        </attvalues>
+      </node>
+      <node id="Executive Coach International" label="Executive Coach International">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="JP Pepperdine" label="JP Pepperdine">
+        <attvalues>
+          <attvalue for="0" value="40" />
+        </attvalues>
+      </node>
+      <node id="Propnex Realty" label="Propnex Realty">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="The Cellar Door and Global Interactive Works" label="The Cellar Door and Global Interactive Works">
+        <attvalues>
+          <attvalue for="0" value="99" />
+        </attvalues>
+      </node>
+      <node id="Jump Rope (Singapore)" label="Jump Rope (Singapore)">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </node>
+      <node id="My Digital Lock" label="My Digital Lock">
+        <attvalues>
+          <attvalue for="0" value="41" />
+        </attvalues>
+      </node>
+      <node id="Smiling Orchid" label="Smiling Orchid">
+        <attvalues>
+          <attvalue for="0" value="121" />
+        </attvalues>
+      </node>
+      <node id="Comfort Transportation and CityCab" label="Comfort Transportation and CityCab">
+        <attvalues>
+          <attvalue for="0" value="40" />
+        </attvalues>
+      </node>
+      <node id="ABR Holdings" label="ABR Holdings">
+        <attvalues>
+          <attvalue for="0" value="39" />
+        </attvalues>
+      </node>
+      <node id="Toh-Shi Printing Singapore" label="Toh-Shi Printing Singapore">
+        <attvalues>
+          <attvalue for="0" value="60" />
+        </attvalues>
+      </node>
+      <node id="a Registered Salesperson" label="a Registered Salesperson">
+        <attvalues>
+          <attvalue for="0" value="39" />
+        </attvalues>
+      </node>
+      <node id="Spear Security Force" label="Spear Security Force">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="AIA Singapore" label="AIA Singapore">
+        <attvalues>
+          <attvalue for="0" value="101" />
+        </attvalues>
+      </node>
+      <node id="K Box Entertainment Group and Finantech Holdings" label="K Box Entertainment Group and Finantech Holdings">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </node>
+      <node id="Challenger Technologies and Xirlynx Innovations" label="Challenger Technologies and Xirlynx Innovations">
+        <attvalues>
+          <attvalue for="0" value="62" />
+        </attvalues>
+      </node>
+      <node id="Fei Fah Medical Manufacturing" label="Fei Fah Medical Manufacturing">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </node>
+      <node id="Flight Raja Travels" label="Flight Raja Travels" />
+      <node id="Singtel" label="Singtel" />
+    </nodes>
+    <edges>
+      <edge id="0" source="SSA Group International" target="Watami Food Service Singapore" />
+      <edge id="1" source="SSA Group International" target="Jade E-Services Singapore" />
+      <edge id="2" source="MCST 3593" target="Smiling Orchid" />
+      <edge id="3" source="MCST 3593" target="AgcDesign" />
+      <edge id="4" source="MCST 3593" target="the National University of Singapore" />
+      <edge id="5" source="MCST 3593" target="SME Motor" />
+      <edge id="6" source="MCST 4375" target="M Stars Movers" />
+      <edge id="7" source="MCST 4375" target="AgcDesign" />
+      <edge id="8" source="MCST 4375" target="the National University of Singapore" />
+      <edge id="9" source="MCST 4375" target="SLF Green Maid Agency" />
+      <edge id="10" source="MCST 4375" target="SME Motor" />
+      <edge id="11" source="Royal Caribbean Cruises (Asia)" target="The Cellar Door and Global Interactive Works" />
+      <edge id="12" source="Royal Caribbean Cruises (Asia)" target="Learnaholic" />
+      <edge id="13" source="Royal Caribbean Cruises (Asia)" target="Genki Sushi" />
+      <edge id="14" source="SPH Magazines" target="Fei Fah Medical Manufacturing" />
+      <edge id="15" source="Creative" target="NTUC Income" />
+      <edge id="16" source="Society of Tourist Guides" target="WTS Automotive Services" />
+      <edge id="17" source="Society of Tourist Guides" target="Tutor City" />
+      <edge id="18" source="Society of Tourist Guides" target="Aviva" />
+      <edge id="19" source="Society of Tourist Guides" target="M Stars Movers" />
+      <edge id="20" source="PeopleSearch" target="Aviva" />
+      <edge id="21" source="PeopleSearch" target="Credit Counselling Singapore" />
+      <edge id="22" source="PeopleSearch" target="Genki Sushi" />
+      <edge id="23" source="National Healthcare Group" target="WTS Automotive Services" />
+      <edge id="24" source="Globalsign.in Pte Ltd" target="Orchard Turn Developments" />
+      <edge id="25" source="Globalsign.in Pte Ltd" target="Learnaholic" />
+      <edge id="26" source="Globalsign.in Pte Ltd" target="Avant Logistic Service" />
+      <edge id="27" source="Globalsign.in Pte Ltd" target="AIA" />
+      <edge id="28" source="Globalsign.in Pte Ltd" target="InfoCorp" />
+      <edge id="29" source="Globalsign.in Pte Ltd" target="Option Gift" />
+      <edge id="30" source="Chizzle" target="Watami Food Service Singapore" />
+      <edge id="31" source="The Travel Corporation (2011)" target="M Stars Movers" />
+      <edge id="32" source="Learnaholic" target="Singapore Taekwondo Federation" />
+      <edge id="33" source="Learnaholic" target="JP Pepperdine" />
+      <edge id="34" source="Learnaholic" target="Orchard Turn Developments" />
+      <edge id="35" source="SearchAsia Consulting" target="Smiling Orchid" />
+      <edge id="36" source="SearchAsia Consulting" target="Tutor City" />
+      <edge id="37" source="Ninja Logistics" target="Challenger Technologies and Xirlynx Innovations" />
+      <edge id="38" source="EU Holidays" target="Tutor City" />
+      <edge id="39" source="Marshall Cavendish Education" target="Aviva" />
+      <edge id="40" source="Marshall Cavendish Education" target="Challenger Technologies and Xirlynx Innovations" />
+      <edge id="41" source="Advance Home Tutors" target="Habitat for Humanity Singapore" />
+      <edge id="42" source="Advance Home Tutors" target="Tutor City" />
+      <edge id="43" source="Amicus Solutions and a Financial Consultant" target="Spring College International" />
+      <edge id="44" source="Amicus Solutions and a Financial Consultant" target="MCST 4436 (River Isles)" />
+      <edge id="45" source="O2 Advertising" target="Tutor City" />
+      <edge id="46" source="Executive Link Services" target="Aviva" />
+      <edge id="47" source="Executive Link Services" target="M Stars Movers" />
+      <edge id="48" source="Executive Link Services" target="Singapore Taekwondo Federation" />
+      <edge id="49" source="Executive Link Services" target="AgcDesign" />
+      <edge id="50" source="Avant Logistic Service" target="Hazel Florist &amp; Gifts" />
+      <edge id="51" source="Horizon Fast Ferry" target="SMU Alumni Association" />
+      <edge id="52" source="Horizon Fast Ferry" target="M Stars Movers" />
+      <edge id="53" source="Genki Sushi" target="Aviva" />
+      <edge id="54" source="Genki Sushi" target="Habitat for Humanity Singapore" />
+      <edge id="55" source="Genki Sushi" target="The Cellar Door and Global Interactive Works" />
+      <edge id="56" source="Championtutor" target="M Stars Movers" />
+      <edge id="57" source="CDP and Toppan Security Printing" target="Eagle Eye Security Management Services" />
+      <edge id="58" source="CDP and Toppan Security Printing" target="The Cellar Door and Global Interactive Works" />
+      <edge id="59" source="Spize Concepts" target="Eagle Eye Security Management Services" />
+      <edge id="60" source="SME Motor" target="SLF Green Maid Agency" />
+      <edge id="61" source="SME Motor" target="Furnituremart" />
+      <edge id="62" source="SME Motor" target="the National University of Singapore" />
+      <edge id="63" source="AIA" target="Aviva" />
+      <edge id="64" source="AIA" target="NTUC Income" />
+      <edge id="65" source="AIA" target="AIG" />
+      <edge id="66" source="DS Human Resource" target="Credit Counselling Singapore" />
+      <edge id="67" source="DS Human Resource" target="AIA Singapore" />
+      <edge id="68" source="GrabCar" target="Flight Raja Travels" />
+      <edge id="69" source="GrabCar" target="Aviva" />
+      <edge id="70" source="GrabCar" target="NTUC Income" />
+      <edge id="71" source="GrabCar" target="Challenger Technologies and Xirlynx Innovations" />
+      <edge id="72" source="Ncode Consultant" target="ComGateway" />
+      <edge id="73" source="Matthew Chiong Partnership" target="Credit Counselling Singapore" />
+      <edge id="74" source="Matthew Chiong Partnership" target="Tech Mahindra (Singapore)" />
+      <edge id="75" source="Matthew Chiong Partnership" target="AIA Singapore" />
+      <edge id="76" source="Matthew Chiong Partnership" target="Toh-Shi Printing Singapore" />
+      <edge id="77" source="Matthew Chiong Partnership" target="Aviva" />
+      <edge id="78" source="Matthew Chiong Partnership" target="Furnituremart" />
+      <edge id="79" source="Tutor City" target="Social Metric" />
+      <edge id="80" source="Tutor City" target="Orchard Turn Developments" />
+      <edge id="81" source="Tutor City" target="Dimsum Property" />
+      <edge id="82" source="Tutor City" target="SMU Alumni Association" />
+      <edge id="83" source="Tutor City" target="Singtel" />
+      <edge id="84" source="Tutor City" target="Jade E-Services Singapore" />
+      <edge id="85" source="Tutor City" target="Aviva" />
+      <edge id="86" source="Tutor City" target="SLF Green Maid Agency" />
+      <edge id="87" source="Tutor City" target="the National University of Singapore" />
+      <edge id="88" source="COURTS" target="ABR Holdings" />
+      <edge id="89" source="SingHealth and IHiS" target="Aviva" />
+      <edge id="90" source="SingHealth and IHiS" target="Smiling Orchid" />
+      <edge id="91" source="SingHealth and IHiS" target="Tech Mahindra (Singapore)" />
+      <edge id="92" source="SingHealth and IHiS" target="Toh-Shi Printing Singapore" />
+      <edge id="93" source="SingHealth and IHiS" target="WTS Automotive Services" />
+      <edge id="94" source="SingHealth and IHiS" target="Social Metric" />
+      <edge id="95" source="SingHealth and IHiS" target="Flight Raja Travels" />
+      <edge id="96" source="SingHealth and IHiS" target="AIG" />
+      <edge id="97" source="SingHealth and IHiS" target="Eagle Eye Security Management Services" />
+      <edge id="98" source="SingHealth and IHiS" target="SLF Green Maid Agency" />
+      <edge id="99" source="SingHealth and IHiS" target="Asia-Pacific Star" />
+      <edge id="100" source="Toppan Forms" target="AIG" />
+      <edge id="101" source="Bud Cosmetics" target="Social Metric" />
+      <edge id="102" source="Bud Cosmetics" target="Aviva" />
+      <edge id="103" source="Bud Cosmetics" target="M Stars Movers" />
+      <edge id="104" source="Bud Cosmetics" target="Habitat for Humanity Singapore" />
+      <edge id="105" source="Bud Cosmetics" target="AIG" />
+      <edge id="106" source="Funding Societies" target="Aviva" />
+      <edge id="107" source="Funding Societies" target="Credit Counselling Singapore" />
+      <edge id="108" source="Funding Societies" target="4 Hair Salons" />
+      <edge id="109" source="SLF Green Maid Agency" target="the National University of Singapore" />
+      <edge id="110" source="WTS Automotive Services" target="The Cellar Door and Global Interactive Works" />
+      <edge id="111" source="WTS Automotive Services" target="Smiling Orchid" />
+      <edge id="112" source="Big Bubble Centre" target="M Stars Movers" />
+      <edge id="113" source="Grabcar" target="Comfort Transportation and CityCab" />
+      <edge id="114" source="Grabcar" target="Credit Counselling Singapore" />
+      <edge id="115" source="Galaxy Credit and Investments" target="AIA Singapore" />
+      <edge id="116" source="Singapore Cricket Association" target="Aviva" />
+      <edge id="117" source="Singapore Cricket Association" target="M Stars Movers" />
+      <edge id="118" source="Singapore Cricket Association" target="Smiling Orchid" />
+      <edge id="119" source="MCST 4436 (River Isles)" target="MCST and Managing Agents of Condominiums" />
+      <edge id="120" source="Singapore Taekwondo Federation" target="Aviva" />
+      <edge id="121" source="Singapore Taekwondo Federation" target="Furnituremart" />
+      <edge id="122" source="Habitat for Humanity Singapore" target="the National University of Singapore" />
+      <edge id="123" source="Habitat for Humanity Singapore" target="Aviva" />
+      <edge id="124" source="AIG" target="Hazel Florist &amp; Gifts" />
+      <edge id="125" source="AIG" target="Social Metric" />
+      <edge id="126" source="NTUC Income" target="Aviva" />
+      <edge id="127" source="NTUC Income" target="Furnituremart" />
+      <edge id="128" source="NTUC Income" target="Toh-Shi Printing Singapore" />
+      <edge id="129" source="Aviva" target="M Stars Movers" />
+      <edge id="130" source="Aviva" target="JP Pepperdine" />
+      <edge id="131" source="Aviva" target="Tech Mahindra (Singapore)" />
+      <edge id="132" source="Aviva" target="AIA Singapore" />
+      <edge id="133" source="Aviva" target="Toh-Shi Printing Singapore" />
+      <edge id="134" source="Aviva" target="Executive Coach International" />
+      <edge id="135" source="Aviva" target="Furnituremart" />
+      <edge id="136" source="My Digital Lockk" target="My Digital Lock" />
+      <edge id="137" source="My Digital Lockk" target="M Stars Movers" />
+      <edge id="138" source="My Digital Lockk" target="Jump Rope (Singapore)" />
+      <edge id="139" source="My Digital Lockk" target="a Former Financial Consultant" />
+      <edge id="140" source="4 Hair Salons" target="M Stars Movers" />
+      <edge id="141" source="an Individual Selling Personal Data" target="a Registered Salesperson" />
+      <edge id="142" source="an Individual Selling Personal Data" target="a Former Financial Consultant" />
+      <edge id="143" source="ComGateway" target="Smiling Orchid" />
+      <edge id="144" source="Credit Counselling Singapore" target="AIA Singapore" />
+      <edge id="145" source="Credit Counselling Singapore" target="Toh-Shi Printing Singapore" />
+      <edge id="146" source="Social Metric" target="Comfort Transportation and CityCab" />
+      <edge id="147" source="Social Metric" target="Smiling Orchid" />
+      <edge id="148" source="Social Metric" target="My Digital Lock" />
+      <edge id="149" source="BHG (Singapore)" target="ABR Holdings" />
+      <edge id="150" source="BHG (Singapore)" target="Asia-Pacific Star" />
+      <edge id="151" source="a Former Financial Consultant" target="a Registered Salesperson" />
+      <edge id="152" source="Orchard Turn Developments" target="The Cellar Door and Global Interactive Works" />
+      <edge id="153" source="Eagle Eye Security Management Services" target="Spear Security Force" />
+      <edge id="154" source="Eagle Eye Security Management Services" target="Asia-Pacific Star" />
+      <edge id="155" source="DataPost" target="Toh-Shi Printing Singapore" />
+      <edge id="156" source="Asia-Pacific Star" target="the National University of Singapore" />
+      <edge id="157" source="Furnituremart" target="the National University of Singapore" />
+      <edge id="158" source="Toh-Shi Printing Singapore" target="Toh-Shi Printing Singapore" />
+    </edges>
+  </graph>
+</gexf>
